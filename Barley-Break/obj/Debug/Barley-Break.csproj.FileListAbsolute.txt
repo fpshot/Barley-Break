@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Barley-BreakGame\Barley-Break\Barley-Break\bin\Debug\Barley-Break.exe.config
+C:\Users\User\Desktop\Barley-BreakGame\Barley-Break\Barley-Break\bin\Debug\Barley-Break.exe
+C:\Users\User\Desktop\Barley-BreakGame\Barley-Break\Barley-Break\bin\Debug\Barley-Break.pdb
+C:\Users\User\Desktop\Barley-BreakGame\Barley-Break\Barley-Break\obj\Debug\Barley-Break.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Barley-BreakGame\Barley-Break\Barley-Break\obj\Debug\Barley_Break.Properties.Resources.resources
+C:\Users\User\Desktop\Barley-BreakGame\Barley-Break\Barley-Break\obj\Debug\Barley-Break.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Barley-BreakGame\Barley-Break\Barley-Break\obj\Debug\Barley-Break.exe
+C:\Users\User\Desktop\Barley-BreakGame\Barley-Break\Barley-Break\obj\Debug\Barley-Break.pdb
